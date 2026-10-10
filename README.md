@@ -24,4 +24,4 @@ The repository holds the design and nothing builds yet.
 
 ## Licence
 
-This repository states no licence.
+MIT. See [LICENSE](LICENSE).
